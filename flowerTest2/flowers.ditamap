@@ -2,4 +2,10 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>Growing Flowers SW</title>
+    <topicref href="topics/Introduction.dita"/>
+    <topichead navtitle="Glossary" id="glossary">
+        <topicmeta>
+            <shortdesc>Definitions of the most commonly used gardening terms.</shortdesc>
+        </topicmeta>
+    </topichead>
 </map>
