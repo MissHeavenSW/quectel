@@ -7,5 +7,6 @@
         <topicmeta>
             <shortdesc>Definitions of the most commonly used gardening terms.</shortdesc>
         </topicmeta>
+        <topicref href="concepts/Perennial.dita" navtitle="Perennial"/>
     </topichead>
 </map>
