@@ -7,6 +7,7 @@
         <topicref href="tasks/pruning.dita"/>
         <topicref href="tasks/gardenPreparation.dita"/>
     </topicref>
+    <topicref href="topics/index.dita"/>
     <topichead navtitle="Glossary" id="glossary">
         <topicmeta>
             <shortdesc>Definitions of the most commonly used gardening terms.</shortdesc>
