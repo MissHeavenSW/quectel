@@ -3,7 +3,10 @@
 <map>
     <title>Growing Flowers SW</title>
     <topicref href="topics/Introduction.dita"/>
-    <topicref href="topics/care.dita"/>
+    <topicref href="topics/care.dita">
+        <topicref href="tasks/pruning.dita"/>
+        <topicref href="tasks/gardenPreparation.dita"/>
+    </topicref>
     <topichead navtitle="Glossary" id="glossary">
         <topicmeta>
             <shortdesc>Definitions of the most commonly used gardening terms.</shortdesc>
