@@ -2,5 +2,5 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title>花卉指南地图</title>
-    <keydef keys="perennial" href="perennial-term.dita"/>
+    <keydef keys="perennial" href="glossaryPerennial.dita"/>
 </map>
