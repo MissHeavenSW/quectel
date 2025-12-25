@@ -12,7 +12,10 @@
             <topicref href="topics/flowers/iris.dita"/>
             <topicref href="topics/flowers/snowdrop.dita"/>
         </topicref>
-        <topicref href="concepts/summerFlowers.dita"/>
+        <topicref href="concepts/summerFlowers.dita">
+            <topicref href="topics/flowers/lilac.dita"/>
+            <topicref href="topics/flowers/gardenia.dita"/>
+        </topicref>
         <topicref href="concepts/autumnFlowers.dita"/>
         <topicref href="concepts/winterFlowers.dita"/>
     </topicref>
