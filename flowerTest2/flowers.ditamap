@@ -8,7 +8,10 @@
         <topicref href="tasks/gardenPreparation.dita"/>
     </topicref>
     <topicref href="topics/index.dita">
-        <topicref href="concepts/springFlowers.dita"/>
+        <topicref href="concepts/springFlowers.dita">
+            <topicref href="topics/flowers/iris.dita"/>
+            <topicref href="topics/flowers/snowdrop.dita"/>
+        </topicref>
         <topicref href="concepts/summerFlowers.dita"/>
         <topicref href="concepts/autumnFlowers.dita"/>
         <topicref href="concepts/winterFlowers.dita"/>
