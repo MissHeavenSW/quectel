@@ -60,11 +60,10 @@
         </body>
         <related-links>
             <link>
-                <desc>
-                    <ul id="ul_fdj_d31_thc">
-                        <li><xref href="snowdrop.dita"/></li>
-                    </ul>
-                </desc>
+                <ul id="ul_fdj_d31_thc">
+                    <li><xref href="snowdrop.dita"/></li>
+                    <li/>
+                </ul>
             </link>
         </related-links>
     </topic>
