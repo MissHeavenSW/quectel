@@ -18,12 +18,12 @@
             <shortdesc>Definitions of the most commonly used gardening terms.</shortdesc>
         </topicmeta>
         <topicref href="concepts/Perennial.dita" navtitle="Perennial" keys="perennial"/>
-        <topicref href="concepts/Bulb.dita"/>
-        <topicref href="concepts/Cultivar.dita"/>
-        <topicref href="concepts/Panicle.dita"/>
-        <topicref href="concepts/Genus.dita"/>
-        <topicref href="concepts/Pollination.dita"/>
-        <topicref href="concepts/Rhizome.dita"/>
-        <topicref href="concepts/Sepal.dita"/>
+        <topicref href="concepts/Bulb.dita" keys="bulb" navtitle="Bulb"/>
+        <topicref href="concepts/Cultivar.dita" keys="cultivar" navtitle="Cultivar"/>
+        <topicref href="concepts/Panicle.dita" keys="panicle" navtitle="Panicle"/>
+        <topicref href="concepts/Genus.dita" keys="genus" navtitle="Genus"/>
+        <topicref href="concepts/Pollination.dita" keys="pollination" navtitle="Pollination"/>
+        <topicref href="concepts/Rhizome.dita" keys="rhizome" navtitle="Rhizome"/>
+        <topicref href="concepts/Sepal.dita" keys="sepal" navtitle="Sepal"/>
     </topichead>
 </map>
